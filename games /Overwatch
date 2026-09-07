@@ -1,1 +1,54 @@
+# Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
 
+## Descrição do Jogo
+
+Overwatch era um jogo de tiro em equipe no formato hero shooter 6v6 lançado em 2016, fez tanto sucesso entre os jogadores ao redor do mundo que acabou vencendo o prêmio de "Game of the Year" no mesmo ano,
+atualmente ele mudou de nome para Overwatch 2 e foi atualizado no formato 5v5.
+
+## Severidade / Prioridade
+
+    Severidade: Alta - pode impactar na experiência de outros jogadores por perder a partida de propósito podendo causar frustações (possibilidade de reports).
+
+    Prioridade: Alta - porém não é tão simples de reproduzir e também não é comum.
+
+
+## Ambiente de Teste
+
+    Plataforma: Descoberto no XBOX ONE FAT, porém afetava qualquer plataforma, Steam, Battle.net, Playstation 4,...
+
+    Ano: 2016-2017
+   
+
+## Pré-requisitos
+
+    Selecionar o heroí Lúcio - também afetava outros personagens como Roadhog, Symmetra e Winston.
+
+    OBRIGATÓRIO ter + 1 jogador (de preferencia um amigo) + um aplicativo para comunicação (skype, discord, ts, meet, teams,...).
+
+    Ocorre apenas no modo CASUAL.
+
+    No caso do lúcio o mapa precisa ter um buraco ou penhansco
+
+
+## Passo a Passo para Reprodução
+
+    1. Inicie um jogo no modo casual.
+
+    2. Escolha qualquer personagem e jogue normalmente.
+
+    3. Antes de acabar a partida pressione start ou o botão para verificar o nome de outros jogadores - se algum do time adversário sair da partida peça para seu amigo clicar no seu perfil na opção "entrar na partida".
+
+    4. Se tudo estiver certo seu amigo estará na equipe "adversária" ou peça para ele alterar a equipe.
+
+    5. Assim que começar a 2ª partida contra seu amigo escolha algum personagem que seja possível desbloquear as conquistas "desonestamente" - opcional ele também pode fazer se quiser. 
+
+    6. Combine para encontrar seu amigo em algum local do mapa longe do objetivo sem morrer (sugestão - perto da base inimiga ou de um penhasco). (OBS - eu consegui no mapa Numbani)
+
+    7. Faça a descrição da conquista: mate 3 seguidas vezes seu amigo enquanto desliza na parede sem morrer.
+
+
+## Resultado Esperado
+
+Não permita que jogadores que se adicionem como amigos joguem em times adversários
+
+## Evidência
