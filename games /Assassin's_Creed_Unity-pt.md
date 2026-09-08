@@ -30,3 +30,6 @@ A textura da pele do rosto dos personagens falha ao carregar, exibindo apenas os
 
 ## Evidências
 ![Falha de renderização facial no Assassin's Creed Unity](../imagens/ac_unity.png)
+![Falha de renderização facial no Assassin's Creed Unity](../imagens/ac_unity1.png)
+![Falha de renderização facial no Assassin's Creed Unity](../imagens/ac_unity2.png)
+![Falha de renderização facial no Assassin's Creed Unity](../imagens/ac_unity3.png)
