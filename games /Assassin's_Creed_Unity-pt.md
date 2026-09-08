@@ -1,3 +1,5 @@
+[🇺🇸 Read this Bug Report in English](Assassin's_Creed_Unity-en.md)
+
 # Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
 
 ## Descrição do Jogo
