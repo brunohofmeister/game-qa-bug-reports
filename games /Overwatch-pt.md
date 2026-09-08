@@ -32,6 +32,6 @@ O sistema de Matchmaking não deve permitir que amigos da mesma lista entrem em 
 ## Resultado Atual
 O sistema permite a entrada do amigo no time adversário via "Junte-se a um amigo", possibilitando a manipulação de estatísticas e o desbloqueio facilitado de conquistas sem interferência do sistema antifraude.
 
-## Evidência
+## Evidências
 ![Conquista desbloqueada no Overwatch](../imagens/overwatch.png)
 ![Menu antigo do Overwatch](../imagens/overwatch_menu_antigo.png)
