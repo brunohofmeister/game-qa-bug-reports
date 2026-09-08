@@ -1,39 +1,32 @@
 [🇺🇸 Read this Bug Report in English](Assassin's_Creed_Unity-en.md)
 
-# Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
+# [Assassin's Creed Unity] Falha grave de renderização gráfica que resulta na ausência de texturas faciais dos personagens (Facial Texture Missing)
 
 ## Descrição do Jogo
-
-Overwatch era um jogo de tiro em equipe no formato hero shooter 6v6 lançado em 2016, fez tanto sucesso entre os jogadores ao redor do mundo que acabou vencendo o prêmio de "Game of the Year" no mesmo ano,
-atualmente ele mudou de nome para Overwatch 2 e foi atualizado no formato 5v5.
+Assassin's Creed Unity é um jogo de ação e aventura em mundo aberto ambientado em Paris durante a Revolução Francesa.
 
 ## Severidade / Prioridade
-* **Severidade:** Média (Permite o ganho indevido de conquistas/troféus e pode incentivar comportamento antidesportivo durante partidas casuais).
-* **Prioridade:** Média (Depende de um fluxo específico de matchmaking e da saída espontânea de um jogador adversário).
+* **Severidade:** Alta (Trata-se de uma falha visual crítica que quebra a imersão do jogador e afeta negativamente a integridade estética do produto).
+* **Prioridade:** Alta (Ocorre em elementos centrais da narrativa, como *cutscenes* e interações com NPCs principais).
 
 ## Ambiente de Teste
 * **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
-* **Versão/Ano:** Build original de lançamento (2016 - 2017).
-* **Modo de Jogo:** Jogo Rápido / Casual.
+* **Versão/Ano:** Build original de lançamento (2014 - 2015).
+* **Modo de Jogo:** Campanha Principal / Modo Livre.
 
 ## Pré-requisitos
-* Selecionar o herói **Lúcio** (aplicável a outros heróis como Roadhog, Symmetra e Winston).
-* Estar em grupo/comunicação externa com pelo menos 1 amigo (Discord, Skype, Party do Console).
-* O mapa selecionado deve conter abismos/áreas de queda (ex: Numbani).
+* Iniciar qualquer missão principal que contenha *cinematics* em tempo real.
 
 ## Passo a Passo para Reprodução
-1. Entre em uma partida no modo Jogo Rápido-Casual.
-2. Durante a partida, identifique a saída de um jogador no time adversário.
-3. Solicite que seu amigo acesse seu perfil no menu do console/jogo e selecione a opção **"Entrar no Jogo"** para preencher a vaga do time rival.
-4. Na rodada seguinte, selecione o herói Lúcio e combine um ponto isolado do mapa com o amigo.
-5. Execute os requisitos da(s) conquista(s): elimine o jogador adversário (amigo) 3 vezes seguidas enquanto desliza na parede, sem morrer entre as eliminações.
+1. Inicie a história principal e progrida até uma cena de diálogo (*cutscene*).
+2. Aproxime a câmera do rosto do personagem principal ou dos NPCs durante as transições de cena.
+3. Observe o carregamento dos ativos gráficos e das mídias de textura facial dos personagens em tela.
 
 ## Resultado Esperado
-O sistema de Matchmaking não deve permitir que amigos da mesma lista entrem em vagas abertas no time oposto em partidas públicas, evitando manipulação de partidas e de conquistas.
+O motor gráfico (*engine*) deve carregar e renderizar perfeitamente todas as malhas de modelo 3D, dentes, olhos e texturas de pele dos personagens durante as *cutscenes* e interações.
 
 ## Resultado Atual
-O sistema permite a entrada do amigo no time adversário via "Junte-se a um amigo", possibilitando a manipulação de estatísticas e o desbloqueio facilitado de conquistas sem interferência do sistema antifraude.
+A textura da pele do rosto dos personagens falha ao carregar, exibindo apenas os olhos, dentes e a estrutura interna da cabeça, gerando uma deformação visual severa.
 
-## Evidência
-![Conquista desbloqueada no Overwatch](../imagens/overwatch.png)
-![Menu antigo do Overwatch](../imagens/overwatch_menu_antigo.png)
+## Evidências
+![Falha de renderização facial no Assassin's Creed Unity](../imagens/ac_unity.png)
