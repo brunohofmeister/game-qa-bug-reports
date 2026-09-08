@@ -1,39 +1,34 @@
 [🇺🇸 Read this Bug Report in English](League_of_Legends-en.md)
 
-# Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
+# [League of Legends] Exploit da Lâmina da Fúria de Guinsoo permite acúmulo infinito de status passivos (Infinite Stacking)
 
 ## Descrição do Jogo
-
-Overwatch era um jogo de tiro em equipe no formato hero shooter 6v6 lançado em 2016, fez tanto sucesso entre os jogadores ao redor do mundo que acabou vencendo o prêmio de "Game of the Year" no mesmo ano,
-atualmente ele mudou de nome para Overwatch 2 e foi atualizado no formato 5v5.
+League of Legends é um jogo multiplayer online battle arena (MOBA) de estratégia em tempo real focado em confrontos de equipes.
 
 ## Severidade / Prioridade
-* **Severidade:** Média (Permite o ganho indevido de conquistas/troféus e pode incentivar comportamento antidesportivo durante partidas casuais).
-* **Prioridade:** Média (Depende de um fluxo específico de matchmaking e da saída espontânea de um jogador adversário).
+* **Severidade:** Crítica (Gera acúmulo infinito de velocidade de ataque e poder de habilidade, desequilibrando completamente as estatísticas dos campeões e a integridade competitiva da partida).
+* **Prioridade:** Muito Alta (Permite que qualquer jogador com o item no inventário explore o bug para obter uma vantagem abusiva e garantida).
 
 ## Ambiente de Teste
-* **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
-* **Versão/Ano:** Build original de lançamento (2016 - 2017).
-* **Modo de Jogo:** Jogo Rápido / Casual.
+* **Plataforma:** PC (Windows)
+* **Versão/Ano:** Patch 4.20 / Encontrado em 2014.
+* **Modo de Jogo:** Todos os modos (Summoner's Rift, ARAM, Custom).
 
 ## Pré-requisitos
-* Selecionar o herói **Lúcio** (aplicável a outros heróis como Roadhog, Symmetra e Winston).
-* Estar em grupo/comunicação externa com pelo menos 1 amigo (Discord, Skype, Party do Console).
-* O mapa selecionado deve conter abismos/áreas de queda (ex: Numbani).
+* Selecionar um campeão focado em velocidade de ataque ou dano híbrido (ex: Kayle, Master Yi).
+* Acumular ouro suficiente na partida para adquirir o item **Lâmina da Fúria de Guinsoo**.
 
 ## Passo a Passo para Reprodução
-1. Entre em uma partida no modo Jogo Rápido-Casual.
-2. Durante a partida, identifique a saída de um jogador no time adversário.
-3. Solicite que seu amigo acesse seu perfil no menu do console/jogo e selecione a opção **"Entrar no Jogo"** para preencher a vaga do time rival.
-4. Na rodada seguinte, selecione o herói Lúcio e combine um ponto isolado do mapa com o amigo.
-5. Execute os requisitos da(s) conquista(s): elimine o jogador adversário (amigo) 3 vezes seguidas enquanto desliza na parede, sem morrer entre as eliminações.
+1. Inicie uma partida em qualquer modo de jogo.
+2. Adquira a Lâmina da Fúria de Guinsoo na loja do jogo.
+3. Ataque tropas, monstros neutros ou campeões inimigos sequencialmente para gerar os acúmulos (*stacks*) do item.
+4. Continue desferindo ataques básicos continuamente mesmo após atingir o limite máximo previsto da passiva.
 
 ## Resultado Esperado
-O sistema de Matchmaking não deve permitir que amigos da mesma lista entrem em vagas abertas no time oposto em partidas públicas, evitando manipulação de partidas e de conquistas.
+O efeito passivo da Lâmina da Fúria de Guinsoo deve acumular seus bônus de Velocidade de Ataque e Poder de Habilidade até o limite máximo de 8 *stacks*, mantendo o valor estático até o encerramento do combate.
 
 ## Resultado Atual
-O sistema permite a entrada do amigo no time adversário via "Junte-se a um amigo", possibilitando a manipulação de estatísticas e o desbloqueio facilitado de conquistas sem interferência do sistema antifraude.
+A passiva do item ignora o limite máximo e continua acumulando bônus de velocidade de ataque e dano infinitamente a cada golpe efetuado, concedendo valores desproporcionais ao campeão.
 
-## Evidência
-![Conquista desbloqueada no Overwatch](../imagens/overwatch.png)
-![Menu antigo do Overwatch](../imagens/overwatch_menu_antigo.png)
+## Evidências
+![Lâmina de Guinsoo acumulando status infinitamente](../imagens/lol_guinsoo.png)
