@@ -1,3 +1,5 @@
+[🇺🇸 Read this Bug Report in English](Call_of_Duty_MW2_2022-en.md)
+
 # Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
 
 ## Descrição do Jogo
