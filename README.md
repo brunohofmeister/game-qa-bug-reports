@@ -24,12 +24,12 @@ Cada relatório foi documentado utilizando um modelo padronizado de QA, contendo
 
 | Jogo / Game | Tipo de Bug / Issue Type | Gravidade / Severity | Português | English |
 | :--- | :--- | :--- | :---: | :---: |
-| **Overwatch** | Matchmaking / Achievement Exploit | Média | [Ver Relatório](games/Overwatch-pt.md) | [Read Report](games/Overwatch-en.md) |
-| **Pimbolas** | Physics / Despawn Glitch | Média | [Ver Relatório](games/Pimbolas-pt.md) | [Read Report](games/Pimbolas-en.md) |
-| **Call of Duty: MW2 (2022)** | Visual / Environment Clipping | Baixa | [Ver Relatório](games/Call_of_Duty_MW2_2022-pt.md) | [Read Report](games/Call_of_Duty_MW2_2022-en.md) |
-| **Assassin's Creed Unity** | Graphics / Texture Streaming Failure | Alta | [Ver Relatório](games/Assassin's_Creed_Unity-pt.md) | [Read Report](games/Assassin's_Creed_Unity-en.md) |
-| **Speedy Eggbert** | Physics / Collision Clipping | Baixa | [Ver Relatório](games/Speedy_Eggbert-pt.md) | [Read Report](games/Speedy_Eggbert-en.md) |
-| **League of Legends** | Mechanics / Infinite Stat Stacking | Crítica | [Ver Relatório](games/League_of_Legends-pt.md) | [Read Report](games/League_of_Legends-en.md) |
+| **Overwatch** | Matchmaking / Achievement Exploit | Média | [Ver Relatório](games/Overwatch_pt.md) | [Read Report](games/Overwatch_en.md) |
+| **Pimbolas** | Physics / Despawn Glitch | Média | [Ver Relatório](games/Pimbolas_pt.md) | [Read Report](games/Pimbolas_en.md) |
+| **Call of Duty: MW2 (2022)** | Visual / Environment Clipping | Baixa | [Ver Relatório](games/Call_of_Duty_MW2_2022_pt.md) | [Read Report](games/Call_of_Duty_MW2_2022_en.md) |
+| **Assassin's Creed Unity** | Graphics / Texture Streaming Failure | Alta | [Ver Relatório](games/Assassin's_Creed_Unity_pt.md) | [Read Report](games/Assassin's_Creed_Unity_en.md) |
+| **Speedy Eggbert** | Physics / Collision Clipping | Baixa | [Ver Relatório](games/Speedy_Eggbert_pt.md) | [Read Report](games/Speedy_Eggbert_en.md) |
+| **League of Legends** | Mechanics / Infinite Stat Stacking | Crítica | [Ver Relatório](games/League_of_Legends_pt.md) | [Read Report](games/League_of_Legends_en.md) |
 
 ---
 
