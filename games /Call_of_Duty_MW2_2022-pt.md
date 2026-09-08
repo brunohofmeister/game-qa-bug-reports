@@ -1,39 +1,36 @@
 [🇺🇸 Read this Bug Report in English](Call_of_Duty_MW2_2022-en.md)
 
-# Overwatch - Glitch para desbloquear a conquista 'O chão é lava' com o Lúcio de forma "desonesta"
+# [Call of Duty MW2 2022] Bug visual de cadáveres de inimigos atravessando a geometria do cenário (Clipping)
 
 ## Descrição do Jogo
-
-Overwatch era um jogo de tiro em equipe no formato hero shooter 6v6 lançado em 2016, fez tanto sucesso entre os jogadores ao redor do mundo que acabou vencendo o prêmio de "Game of the Year" no mesmo ano,
-atualmente ele mudou de nome para Overwatch 2 e foi atualizado no formato 5v5.
+Call of Duty: Modern Warfare II (2022) é um jogo de tiro em primeira pessoa (FPS) focado em combate tático militar.
 
 ## Severidade / Prioridade
-* **Severidade:** Média (Permite o ganho indevido de conquistas/troféus e pode incentivar comportamento antidesportivo durante partidas casuais).
-* **Prioridade:** Média (Depende de um fluxo específico de matchmaking e da saída espontânea de um jogador adversário).
+* **Severidade:** Baixa (Trata-se de uma falha puramente visual que afeta os corpos dos inimigos mortos, sem bloquear a progressão da missão).
+* **Prioridade:** Baixa (Não compromete a jogabilidade principal e tem baixo impacto na experiência geral do usuário).
 
 ## Ambiente de Teste
-* **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
-* **Versão/Ano:** Build original de lançamento (2016 - 2017).
-* **Modo de Jogo:** Jogo Rápido / Casual.
+* **Plataforma:** PC (Steam / Battle.net)
+* **Versão/Ano:** Build atualizada (Julho/2026).
+* **Modo de Jogo:** Campanha Principal / Missão 9.
 
 ## Pré-requisitos
-* Selecionar o herói **Lúcio** (aplicável a outros heróis como Roadhog, Symmetra e Winston).
-* Estar em grupo/comunicação externa com pelo menos 1 amigo (Discord, Skype, Party do Console).
-* O mapa selecionado deve conter abismos/áreas de queda (ex: Numbani).
+* Selecionar a dificuldade **Veterano**.
+* Progredir até a Missão 9 no modo Campanha.
 
 ## Passo a Passo para Reprodução
-1. Entre em uma partida no modo Jogo Rápido-Casual.
-2. Durante a partida, identifique a saída de um jogador no time adversário.
-3. Solicite que seu amigo acesse seu perfil no menu do console/jogo e selecione a opção **"Entrar no Jogo"** para preencher a vaga do time rival.
-4. Na rodada seguinte, selecione o herói Lúcio e combine um ponto isolado do mapa com o amigo.
-5. Execute os requisitos da(s) conquista(s): elimine o jogador adversário (amigo) 3 vezes seguidas enquanto desliza na parede, sem morrer entre as eliminações.
+1. Inicie a Missão 9 no modo Campanha.
+2. Siga as instruções do NPC aliado até alcançar a área dos armazéns.
+3. Utilize a sniper para eliminar os inimigos à distância até o aliado ordenar a invasão dos 3 armazéns.
+4. Escolha um dos armazéns, suba até o telhado e arremesse uma bomba de gás pela chaminé.
+5. Elimine a maioria dos inimigos no interior do armazém, deixando apenas 1 vivo.
+6. Permita que o último inimigo elimine o jogador para forçar o recarregamento do ponto de controle (*checkpoint*).
 
 ## Resultado Esperado
-O sistema de Matchmaking não deve permitir que amigos da mesma lista entrem em vagas abertas no time oposto em partidas públicas, evitando manipulação de partidas e de conquistas.
+Após o recarregamento do *checkpoint*, os corpos dos inimigos mortos anteriormente devem ser removidos do cenário ou renderizados com a física de colisão correta sobre o piso.
 
 ## Resultado Atual
-O sistema permite a entrada do amigo no time adversário via "Junte-se a um amigo", possibilitando a manipulação de estatísticas e o desbloqueio facilitado de conquistas sem interferência do sistema antifraude.
+Ao recarregar o ponto de controle, os cadáveres dos inimigos reaparecem presos ou atravessando a geometria do mapa, dando a impressão de estarem caindo ou "engolidos" pelo chão e paredes.
 
-## Evidência
-![Conquista desbloqueada no Overwatch](../imagens/overwatch.png)
-![Menu antigo do Overwatch](../imagens/overwatch_menu_antigo.png)
+## Evidências
+![Inimigos atravessando o cenário no COD MW2](../imagens/codmw2_2022.png)
