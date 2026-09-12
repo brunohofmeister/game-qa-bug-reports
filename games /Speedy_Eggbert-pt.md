@@ -9,6 +9,10 @@ Speedy Eggbert é um jogo de plataforma e quebra-cabeças 3D em visão isométri
 * **Severidade:** Baixa (Permite ultrapassar obstáculos de forma indevida ao explorar a sobreposição de caixas de colisão).
 * **Prioridade:** Baixa (Impacta a progressão natural de poucas fases oficiais e de cenários customizados do criador de mapas).
 
+## Status
+
+🔴 **Não corrigido**
+
 ## Ambiente de Teste
 * **Plataforma:** PC (Windows)
 * **Versão/Ano:** Encontrado em 2010, mas o corre desde o lançamento em 1998.
