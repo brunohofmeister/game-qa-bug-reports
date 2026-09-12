@@ -9,6 +9,10 @@ Speedy Eggbert is an isometric 3D platformer and puzzle game originally released
 * **Severity:** Low (Allows bypassing obstacles improperly by exploiting overlapping collision boxes).
 * **Priority:** Low (Impacts natural progression in a few official levels and custom scenarios created in the map editor).
 
+## Status
+
+🔴 **Not Fixed**
+
 ## Test Environment
 * **Platform:** PC (Windows).
 * **Version/Year:** Found in 2012 (Likely present since launch in 1998).
