@@ -9,9 +9,13 @@ Assassin's Creed Unity is an open-world action-adventure game set in Paris durin
 * **Severity:** High (Critical visual failure that breaks player immersion and severely degrades product aesthetic integrity).
 * **Priority:** High (Occurs during core narrative elements, such as cutscenes and interactions with major NPCs).
 
+## Status
+
+🟢 **Fixed in November 2014**
+
 ## Test Environment
 * **Platform:** Xbox One Fat (Bug replicable on PlayStation 4 and PC).
-* **Version/Year:** Original launch build (2014 - 2015).
+* **Version/Year:** Original launch build (2014).
 * **Game Mode:** Main Campaign / Free Roam.
 
 ## Prerequisites
