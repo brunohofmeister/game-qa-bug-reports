@@ -1,4 +1,4 @@
-[🇧🇷 Leia este README em Português](README.md)
+[🇧🇷 Leia este README em Português](README-pt.md)
 
 # 🎮 Software QA Testing Portfolio 🎮
 
