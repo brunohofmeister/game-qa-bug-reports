@@ -34,6 +34,6 @@ Character facial skin textures fail to load (LOD/Texture streaming failure), dis
 
 ## Evidence
 ![Facial rendering failure in Assassin's Creed Unity](../imagens/ac_unity.png)
-![Facial rendering failure in Assassin's Creed Unity](../imagens/ac_unity1.png)
-![Facial rendering failure in Assassin's Creed Unity](../imagens/ac_unity2.png)
-![Facial rendering failure in Assassin's Creed Unity](../imagens/ac_unity3.png)
+![Hair rendering failure in Assassin's Creed Unity](../imagens/ac_unity1.png)
+![NPC1 rendering failure in Assassin's Creed Unity](../imagens/ac_unity2.png)
+![NPC2 rendering failure in Assassin's Creed Unity](../imagens/ac_unity3.png)
