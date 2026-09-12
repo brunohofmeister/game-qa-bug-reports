@@ -15,7 +15,7 @@ Assassin's Creed Unity é um jogo de ação e aventura em mundo aberto ambientad
 
 ## Ambiente de Teste
 * **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
-* **Versão/Ano:** Build original de lançamento (2014 - 2015).
+* **Versão/Ano:** Build original de lançamento (2014).
 * **Modo de Jogo:** Campanha Principal / Modo Livre.
 
 ## Pré-requisitos
