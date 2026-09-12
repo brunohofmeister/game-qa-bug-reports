@@ -9,9 +9,13 @@ League of Legends is a multiplayer online battle arena (MOBA) real-time strategy
 * **Severity:** Critical (Grants infinite Attack Speed and Ability Power stacking, completely breaking champion balance and competitive match integrity).
 * **Priority:** Very High (Allows any player holding the item in their inventory to exploit the bug for an abusive, guaranteed advantage).
 
+## Status
+
+🟢 **Fixed in Patch 4.20**
+
 ## Test Environment
 * **Platform:** PC (Windows).
-* **Version/Year:** Patch 4.20 / Found in 2014.
+* **Version/Year:** Season 14 // Found in 2014.
 * **Game Mode:** All Modes (Summoner's Rift, ARAM, Custom).
 
 ## Prerequisites
