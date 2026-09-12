@@ -11,9 +11,13 @@ atualmente ele mudou de nome para Overwatch 2 e foi atualizado no formato 5v5.
 * **Severidade:** Média (Permite o ganho indevido de conquistas/troféus e pode incentivar comportamento antidesportivo durante partidas casuais).
 * **Prioridade:** Média (Depende de um fluxo específico de matchmaking e da saída espontânea de um jogador adversário).
 
+## Status
+
+🟢 **Corrigido em 2017**
+
 ## Ambiente de Teste
 * **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
-* **Versão/Ano:** Build original de lançamento (2016 - 2017).
+* **Versão/Ano:** Build original de lançamento (2016).
 * **Modo de Jogo:** Jogo Rápido / Casual.
 
 ## Pré-requisitos
