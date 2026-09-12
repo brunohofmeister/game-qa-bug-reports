@@ -9,9 +9,13 @@ League of Legends é um jogo multiplayer online battle arena (MOBA) de estratég
 * **Severidade:** Crítica (Gera acúmulo infinito de velocidade de ataque e poder de habilidade, desequilibrando completamente as estatísticas dos campeões e a integridade competitiva da partida).
 * **Prioridade:** Muito Alta (Permite que qualquer jogador com o item no inventário explore o bug para obter uma vantagem abusiva e garantida).
 
+## Status
+
+🟢 **Corrigido no Patch 4.20**
+
 ## Ambiente de Teste
 * **Plataforma:** PC (Windows)
-* **Versão/Ano:** Patch 4.20 / Encontrado em 2014.
+* **Versão/Ano:** Temporada 14 / Encontrado em 2014.
 * **Modo de Jogo:** Todos os modos (Summoner's Rift, ARAM, Custom).
 
 ## Pré-requisitos
