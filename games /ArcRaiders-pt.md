@@ -33,9 +33,9 @@ A rainha deve reagir à presença dos jogadores e o combate deve seguir o balanc
 Jogadores conseguem derrotar a rainha em segundos após utilizar uma armadilha incendiária próxima a ela.
  
 ## Evidências
-**Imagens**
-![Glitch da Rainha](../imagens/arcraiders-rainha.png)
-**Vídeos**
+**Imagens**<br>
+![Glitch da Rainha](../imagens/arcraiders-rainha.png)<br>
+**Vídeos**<br>
 https://www.youtube.com/shorts/QidVra0QyFY
  
 # [ArcRaiders] Glitch de geometria em todos os mapas (principalmente Stella Montis e Espaço Porto)
@@ -66,9 +66,9 @@ As paredes e barreiras físicas do cenário devem bloquear o movimento do jogado
 Jogadores conseguem saltar através da parede e eliminar outros jogadores sem serem detectados e sem sofrer dano, causando perdas de equipamentos.
  
 ## Evidências
-**Imagens**
-![Glitch da Parede Stella Montis](../imagens/arcraiders-stella-montis.png)
-**Vídeos**
+**Imagens**<br>
+![Glitch da Parede Stella Montis](../imagens/arcraiders-stella-montis.png)<br>
+**Vídeos**<br>
 https://www.youtube.com/shorts/_J3PPxQvl1o
  
 # [ArcRaiders] Duplicação de itens – Patinhos de borracha
@@ -102,7 +102,7 @@ O inventário deve consumir o item corretamente ao jogá-lo ou dividi-lo, manten
 Jogadores conseguem multiplicar itens e vendê-los na loja, acumulando uma quantidade exagerada de moeda e impactando a economia do jogo.
  
 ## Evidências
-**Imagens**
-![Glitch duplicação de patos](../imagens/arcraiders-itens-duplicados.png)
-**Vídeos**
+**Imagens**<br>
+![Glitch duplicação de patos](../imagens/arcraiders-itens-duplicados.png)<br>
+**Vídeos**<br>
 https://www.youtube.com/shorts/0s3dJ5reRiE
