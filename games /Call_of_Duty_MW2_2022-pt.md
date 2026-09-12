@@ -9,6 +9,10 @@ Call of Duty: Modern Warfare II (2022) é um jogo de tiro em primeira pessoa (FP
 * **Severidade:** Baixa (Trata-se de uma falha puramente visual que afeta os corpos dos inimigos mortos, sem bloquear a progressão da missão).
 * **Prioridade:** Baixa (Não compromete a jogabilidade principal e tem baixo impacto na experiência geral do usuário).
 
+## Status
+
+🔴 **Não corrigido**
+
 ## Ambiente de Teste
 * **Plataforma:** PC (Steam / Battle.net)
 * **Versão/Ano:** Build atualizada (Julho/2026).
