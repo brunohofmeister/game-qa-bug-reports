@@ -9,6 +9,10 @@ Call of Duty: Modern Warfare II (2022) is a first-person shooter (FPS) game focu
 * **Severity:** Low (Purely a visual glitch affecting enemy ragdolls, with no impact on mission progression).
 * **Priority:** Low (Does not hinder core gameplay and has minimal effect on overall user experience).
 
+## Status
+
+🔴 **Not Fixed**
+
 ## Test Environment
 * **Platform:** PC (Steam / Battle.net).
 * **Version/Year:** Updated build (July/2026).
