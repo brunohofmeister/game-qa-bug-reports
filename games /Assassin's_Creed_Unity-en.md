@@ -11,7 +11,7 @@ Assassin's Creed Unity is an open-world action-adventure game set in Paris durin
 
 ## Status
 
-🟢 **Fixed in November 2014**
+🟢 **Fixed in December 2014**
 
 ## Test Environment
 * **Platform:** Xbox One Fat (Bug replicable on PlayStation 4 and PC).
