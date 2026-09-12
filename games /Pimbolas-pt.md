@@ -9,6 +9,10 @@ Pimbolas é um jogo arcade de pebolim/futebol de mesa com mecânicas de superpod
 * **Severidade:** Média (Interrompe o fluxo normal da partida, impedindo a defesa adequada e exigindo a reinicialização da partida).
 * **Prioridade:** Média (Gera desvantagem injusta na jogabilidade, embora a taxa de reprodução ainda seja inconsistente).
 
+## Status
+
+🔴 **Não corrigido**
+
 ## Ambiente de Teste
 * **Plataforma:** PC (Windows 11)
 * **Versão/Ano:** Build original de lançamento (2026).
