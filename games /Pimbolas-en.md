@@ -9,6 +9,10 @@ Pimbolas is a foosball/table soccer arcade game featuring superpower mechanics, 
 * **Severity:** Medium (Disrupts regular gameplay flow, preventing proper defense and forcing a match restart).
 * **Priority:** Medium (Creates an unfair gameplay disadvantage, though the reproduction rate remains inconsistent).
 
+## Status
+
+🔴 **Not Fixed**
+
 ## Test Environment
 * **Platform:** PC (Windows 11).
 * **Version/Year:** Original launch build (2026).
