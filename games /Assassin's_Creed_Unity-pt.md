@@ -9,6 +9,10 @@ Assassin's Creed Unity é um jogo de ação e aventura em mundo aberto ambientad
 * **Severidade:** Alta (Trata-se de uma falha visual crítica que quebra a imersão do jogador e afeta negativamente a integridade estética do produto).
 * **Prioridade:** Alta (Ocorre em elementos centrais da narrativa, como *cutscenes* e interações com NPCs principais).
 
+## Status
+
+🟢 **Corrigido em Novembro de 2014**
+
 ## Ambiente de Teste
 * **Plataforma:** Xbox One Fat (Bug replicável em PlayStation 4 e PC).
 * **Versão/Ano:** Build original de lançamento (2014 - 2015).
