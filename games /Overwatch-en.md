@@ -9,9 +9,13 @@ Overwatch is a team-based 6v6 hero shooter game. Test conducted on the launch ve
 * **Severity:** Medium (Allows unfair achievement/trophy earning and may encourage unsportsmanlike behavior during casual matches).
 * **Priority:** Medium (Relies on a specific matchmaking flow and the spontaneous departure of an opposing player).
 
+## Status
+
+🟢 **Fixed in 2017**
+
 ## Test Environment
 * **Platform:** Xbox One Fat (Bug replicable on PlayStation 4 and PC).
-* **Version/Year:** Original launch build (2016 - 2017).
+* **Version/Year:** Found in 2017.
 * **Game Mode:** Quick Play / Casual.
 
 ## Prerequisites
